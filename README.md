@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Am Christopher Joseph Jacob popularly called "WHITE" 
 #### Am a software Architecture 
-![Am a software Architecture ](https://media-exp1.licdn.com/dms/image/C5603AQGaxKxJNOFyyA/profile-displayphoto-shrink_200_200/0/1648035728330?e=1662595200&v=beta&t=Oe6xHBHbCiU56HsPMOLLHEynasKxzpUOx3EcArQ4ZvM)
+![Am a software Architecture ](https://github.com/X10TION/X10TION/blob/main/banner.jpg)
 
 I studied Operations Research from Feredral University of Technology Yola, Nigeria. my field of study give me extra adavantage among developer, i love what i do and am possionate about it solving real life problem give me sense of fulfilment.
 
