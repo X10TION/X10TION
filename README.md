@@ -1,4 +1,4 @@
-<p align="center">
+
 ![Am a Software Developer and Operations Researcher ](https://github.com/X10TION/X10TION/blob/main/my%20banner.jpg)
 ### Hi there 👋, Am Christopher White" 
 #### Am a Software Developer and Operations Researcher
