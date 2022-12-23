@@ -3,7 +3,7 @@
 ### Hi there 👋, Am Christopher White" 
 #### Am a Software Developer and Operations Researcher
 
-I studied Operations Research from Feredral University of Technology Yola, Nigeria. my field of study give me extra adavantage among developer, i love what i do and am possionate about it solving real life problem give me sense of fulfilment.
+I am a software engineer with a decade of experence 
 
 ### Skills 
 <p align="center">
